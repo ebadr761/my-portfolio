@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+#dist <- want to publish the optimized files ready to deploy to GitHub
 dist-ssr
 *.local
 
