@@ -61,7 +61,7 @@ export default function Portfolio() {
           <AnimatedElement delay={2}>
             <div className="space-y-6">
               <h2 className="text-6xl md:text-7xl font-bold tracking-tight">
-                Software Engineer
+                Software Engineering Student
               </h2>
               <p className="text-xl text-slate-400 max-w-2xl leading-relaxed">
                 I build software applications I find interesting and craft digital experiences. Currently seeking 2026 internship opportunities to solve challenging problems.
