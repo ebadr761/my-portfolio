@@ -64,7 +64,7 @@ export default function Portfolio() {
                 Software Engineer
               </h2>
               <p className="text-xl text-slate-400 max-w-2xl leading-relaxed">
-                I build scalable applications and craft digital experiences. Currently seeking internship opportunities to solve challenging problems.
+                I build software applications I find interesting and craft digital experiences. Currently seeking 2026 internship opportunities to solve challenging problems.
               </p>
               <div className="flex gap-4 pt-8">
                 <a href="#contact" className="px-8 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-semibold transition flex items-center gap-2">
@@ -117,14 +117,14 @@ export default function Portfolio() {
                 <div className="flex justify-between items-start mb-4">
                   <div>
                     <h4 className="text-2xl font-bold group-hover:text-blue-400 transition">
-                      WordPress Web Designer
+                      Freelance Web Designer
                     </h4>
                     <p className="text-slate-400">Designmen Consulting • Remote</p>
                   </div>
                   <span className="text-slate-500 text-sm">Aug 2023 — Jan 2025</span>
                 </div>
                 <p className="text-slate-400 leading-relaxed mb-4">
-                  Led end-to-end design and development of 3 business websites for Calgary clients. Engineered custom backend fields automating data management, saving clients 50+ hours quarterly. Optimized site performance through SEO best practices and WordPress configuration.
+                  Led end-to-end design and development of 3 business websites for Calgary clients including a local gym, daycare and college. Optimized site performance through SEO best practices.
                 </p>
                 <div className="flex gap-3 flex-wrap">
                   <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">WordPress</span>
@@ -157,7 +157,9 @@ export default function Portfolio() {
                   <div className="flex gap-2 flex-wrap">
                     <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">React</span>
                     <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">Flask</span>
-                    <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">PostgreSQL</span>
+                    <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">JavaScript</span>
+                    <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">HTML</span>
+                    <span className="text-xs bg-slate-800 px-3 py-1 rounded-full">CSS</span>
                   </div>
                 </div>
               </a>
@@ -204,11 +206,11 @@ export default function Portfolio() {
               </div>
               <div>
                 <h4 className="font-bold mb-3">Frontend</h4>
-                <p className="text-slate-400 text-sm">React, HTML/CSS, Tailwind, Framer Motion</p>
+                <p className="text-slate-400 text-sm">React+Vite (used for this site!), HTML/CSS, Tailwind, Framer Motion</p>
               </div>
               <div>
                 <h4 className="font-bold mb-3">Backend</h4>
-                <p className="text-slate-400 text-sm">Node.js, Express, Flask, AWS, Linux</p>
+                <p className="text-slate-400 text-sm">Flask in Python, AWS, Linux</p>
               </div>
             </div>
           </AnimatedElement>
@@ -221,7 +223,7 @@ export default function Portfolio() {
           <AnimatedElement delay={0}>
             <h3 className="text-4xl font-bold mb-6">Let's Connect</h3>
             <p className="text-slate-400 text-lg mb-12">
-              I'm interested in internship opportunities. Feel free to reach out!
+              I'm interested in internship opportunities for the period of May 2026-August 2027. Feel free to reach out!
             </p>
             <div className="flex justify-center gap-6">
               <a href="mailto:ebad.rehman@ucalgary.ca" className="flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-semibold transition">
