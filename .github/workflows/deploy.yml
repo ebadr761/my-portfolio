@@ -38,6 +38,9 @@ jobs:
       
       - name: Build
         run: npm run build
+
+      - name: Create CNAME file
+        run: echo "ebad.tech" > ./dist/CNAME
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
