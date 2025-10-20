@@ -64,7 +64,7 @@ export default function Portfolio() {
                 Software Engineering Student
               </h2>
               <p className="text-xl text-slate-400 max-w-2xl leading-relaxed">
-                I build software applications I find interesting and craft digital experiences. Currently seeking 2026 internship opportunities to solve challenging problems.
+                Hello! My name is Ebad ur Rehman. I build software applications I find interesting and craft digital experiences. Currently seeking 2026 summer internship opportunities to solve challenging problems and grow as a prospective Software Engineer.
               </p>
               <div className="flex gap-4 pt-8">
                 <a href="#contact" className="px-8 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-semibold transition flex items-center gap-2">
